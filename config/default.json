@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://stan:superpassword@cluster0.8o9ottu.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "Hack me if u can!",
+  "baseUrl": "http://localhost:5000"
+}
